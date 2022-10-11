@@ -1,1 +1,1 @@
-‘This repository contains solutions to shell tasks’
+echo Shell I/O redirections
